@@ -17,6 +17,7 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 * Segurança (liberar somente o necessário/mínimo acesso possível).
 
 ## ARQUITETURA DA NOVA SOLUÇÃO
+<img src="Assets/Cenary.svg" alt="Cenário de implementação">
 
 ## ORÇAMENTO
 
