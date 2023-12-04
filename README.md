@@ -37,29 +37,27 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 ## REFERÊNCIAS
 
 ### Data
-- [Amazon S3 Documentation](https://docs.aws.amazon.com/pt_br/s3/?nc2=h_ql_doc_s3){:target="_blank"}
-- [Amazon RDS Documentation](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html){:target="_blank"}
+- [Amazon S3 Documentation](https://docs.aws.amazon.com/pt_br/s3/?nc2=h_ql_doc_s3)
+- [Amazon RDS Documentation](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
 ### Containers
-- [Amazon EKS Documentation](https://docs.aws.amazon.com/eks/?icmpid=docs_homepage_containers){:target="_blank"}
-- [Amazon ECR Documentation](https://docs.aws.amazon.com/ecr/?icmpid=docs_homepage_containers){:target="_blank"}
+- [Amazon EKS Documentation](https://docs.aws.amazon.com/eks/?icmpid=docs_homepage_containers)
+- [Amazon ECR Documentation](https://docs.aws.amazon.com/ecr/?icmpid=docs_homepage_containers)
 ### Network
-- [Amazon VPC Documentation](https://docs.aws.amazon.com/vpc/?icmpid=docs_homepage_featuredsvcs){:target="_blank"}
-- [Amazon Route 53 Documentation](https://docs.aws.amazon.com/route53/?icmpid=docs_homepage_networking){:target="_blank"}
-- [Amazon ELB Documentation](https://docs.aws.amazon.com/elasticloadbalancing/?icmpid=docs_homepage_networking){:target="_blank"}
+- [Amazon VPC Documentation](https://docs.aws.amazon.com/vpc/?icmpid=docs_homepage_featuredsvcs)
+- [Amazon Route 53 Documentation](https://docs.aws.amazon.com/route53/?icmpid=docs_homepage_networking)
+- [Amazon ELB Documentation](https://docs.aws.amazon.com/elasticloadbalancing/?icmpid=docs_homepage_networking)
 ### Security
-- [Amazon WAF Documentation](https://docs.aws.amazon.com/waf/?icmpid=docs_homepage_security){:target="_blank"}
-- [Amazon IAM Documentation](https://docs.aws.amazon.com/iam/?icmpid=docs_homepage_security){:target="_blank"}
+- [Amazon WAF Documentation](https://docs.aws.amazon.com/waf/?icmpid=docs_homepage_security)
+- [Amazon IAM Documentation](https://docs.aws.amazon.com/iam/?icmpid=docs_homepage_security)
 
 ### Management
-- [Amazon CloudTrail Documentation](https://docs.aws.amazon.com/cloudtrail/?icmpid=docs_homepage_mgmtgov){:target="_blank"}
-- [Amazon CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/?icmpid=docs_homepage_mgmtgov){:target="_blank"}
+- [Amazon CloudTrail Documentation](https://docs.aws.amazon.com/cloudtrail/?icmpid=docs_homepage_mgmtgov)
+- [Amazon CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/?icmpid=docs_homepage_mgmtgov)
 
 ### Migration
-- [AWS Database Migration Service Documentation](https://docs.aws.amazon.com/dms/?icmpid=docs_homepage_migration){:target="_blank"}
+- [AWS Database Migration Service Documentation](https://docs.aws.amazon.com/dms/?icmpid=docs_homepage_migration)
 
 ### Infrastructure as Code (IaC)
-- [Terraform Provider AWS Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs){:target="_blank"}
+- [Terraform Provider AWS Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 ## Notas Adicionais
-
-Inclua aqui quaisquer notas ou informações adicionais relevantes para o projeto.
