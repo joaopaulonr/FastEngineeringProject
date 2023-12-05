@@ -19,6 +19,9 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 ## ARQUITETURA DA NOVA SOLUÇÃO
 <img src="Assets/Cenary.svg" alt="Cenário de implementação">
 
+## PIPELINES E WORKFLOWS
+<img src="Assets/pipelines.svg" alt="Cenário de implementação">
+
 ## ORÇAMENTO
 
 ## PRAZO DE ENTREGA
