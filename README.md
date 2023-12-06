@@ -8,7 +8,7 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 
 ### Arquitetura Atual
 <div align="center">
-    <img src="Assets/Arquitetura-antiga.svg" alt="Cenário" >
+    <img src="Assets/Arquitetura-antiga.svg" alt="Cenário Antigo" >
 </div>
 
 
@@ -27,6 +27,12 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 
 ## PIPELINES E WORKFLOWS
 <img src="Assets/pipelines.svg" alt="Cenário de implementação">
+
+## MIGRAÇÃO
+<div align="center">
+    <img src="Assets/migration.svg" alt="Cenário Antigo" >
+</div>
+
 
 ## ORÇAMENTO
 
