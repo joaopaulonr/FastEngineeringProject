@@ -6,6 +6,9 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 * 01 servidor para a aplicação utilizando REACT;
 * 01 servidor de web Server e que armazena estáticos como fotos e links.
 
+### Arquitetura Atual
+<img src="Assets/Arquitetura-antiga.svg" alt="Cenário">
+
 ## REQUISITOS DA SOLUÇÃO
 
 * Ambiente Kubernetes;
