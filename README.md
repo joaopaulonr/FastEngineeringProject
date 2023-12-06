@@ -7,7 +7,10 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 * 01 servidor de web Server e que armazena estáticos como fotos e links.
 
 ### Arquitetura Atual
-<img src="Assets/Arquitetura-antiga.svg" alt="Cenário">
+<div align="center">
+    <img src="Assets/Arquitetura-antiga.svg" alt="Cenário" >
+</div>
+
 
 ## REQUISITOS DA SOLUÇÃO
 
