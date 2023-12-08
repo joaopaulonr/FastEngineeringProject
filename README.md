@@ -12,7 +12,7 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 </div>
 
 
-## REQUISITOS DA SOLUÇÃO
+## REQUISITOS DA NOVA SOLUÇÃO
 
 * Ambiente Kubernetes;
 * Banco de dados PaaS;
@@ -25,16 +25,50 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 ## ARQUITETURA DA NOVA SOLUÇÃO
 <img src="Assets/Cenary.svg" alt="Cenário de implementação">
 
+### Serviços Utilizados
+#### Rede:
+* VPC
+* Route53
+* ELB
+
+#### Computação:
+* EKS
+
+#### Dados:
+* S3
+* RDS
+#### Segurança:
+* NACL
+* IAM
+* WAF
+* SecurityGroups
+
+
+
 ## PIPELINES E WORKFLOWS
 <img src="Assets/pipelines.svg" alt="Cenário de implementação">
 
+### Serviços Utilizados
+* CodeCommit
+* CodeBuild
+* CodePipeline
+* ECR
+
 ## MIGRAÇÃO
 <div align="center">
-    <img src="Assets/migration.svg" alt="Cenário Antigo" >
+    <img src="Assets/migration.svg" alt="migração" >
 </div>
 
+### Serviços Utilizados
+* DMS
 
 ## ORÇAMENTO
+<div align="center">
+    <img src="Assets/orçamento.png" alt="orçamento" >
+</div>
+Acesse o link do cálculo de custos <a href="https://calculator.aws/#/estimate?id=689266df76976f7dea81de5ec8ae6cc56991ae17" target="_blank">aqui!</a>
+
+ 
 
 ## PRAZO DE ENTREGA
 
