@@ -1,5 +1,5 @@
-# Projeto Fast-Engineering - Documento de Planejamento
-## DESCRIÇÃO
+# Projeto Fast-Engineering - Documento de Planejamento.
+## DESCRIÇÃO.
 Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos senhores(as), que fazem parte da empresa terceira "TI SOLUÇÕES INCRÍVEIS". Nosso eCommerce está crescendo e a solução atual não está atendendo mais a alta demanda de acessos e compras que estamos tendo. Desde o Início do ano, os acessos e compras estão crescendo 20% a cada mês. Atualmente usamos:
 * 01 servidor para Banco de Dados Mysql;
 * 01 servidor para a aplicação utilizando REACT;
@@ -11,7 +11,7 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 </div>
 
 
-## REQUISITOS DA NOVA SOLUÇÃO
+## REQUISITOS DA NOVA SOLUÇÃO.
 
 * Ambiente Kubernetes;
 * Banco de dados PaaS;
@@ -21,7 +21,7 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 * Balanceamento de carga com healthcheck;
 * Segurança (liberar somente o necessário/mínimo acesso possível).
 
-## ARQUITETURA DA NOVA SOLUÇÃO
+## ARQUITETURA DA NOVA SOLUÇÃO.
 <img src="Assets/Cenary.svg" alt="Cenário de implementação">
 
 ### Serviços Utilizados
@@ -61,7 +61,7 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 
 
 
-## PIPELINES E WORKFLOWS
+## PIPELINES E WORKFLOWS.
 <img src="Assets/pipelines.svg" alt="Cenário de implementação">
 
 ### Serviços Utilizados
@@ -78,7 +78,7 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
    - ECR é um registro de contêiner totalmente gerenciado que facilita o armazenamento, gerenciamento e implantação de imagens de contêiner Docker. Ele integra-se perfeitamente ao Amazon ECS e ao CodeBuild para facilitar a construção e implantação de aplicativos em contêineres.
 
 
-## MIGRAÇÃO
+## MIGRAÇÃO.
 <div align="center">
     <img src="Assets/migration.svg" alt="migração" >
 </div>
@@ -86,6 +86,19 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 ### Serviços Utilizados
 1. **DMS (Database Migration Service):**
    - O DMS é um serviço que facilita a migração de dados entre diferentes tipos de bancos de dados, incluindo migrações homogêneas e heterogêneas. Ele suporta a replicação contínua e em tempo real, ajudando na transferência eficiente de dados entre fontes e destinos.
+
+## ACESSO SEGURO A RECURSOS.
+<div align="center">
+    <img src="Assets/securityAcess.svg" alt="migração" >
+</div>
+
+### Serviços Utilizados
+### SSM (Systems Manager)
+1. **Session Manager para EKS:**
+   - O Session Manager é um serviço do AWS Systems Manager que oferece acesso seguro e controlado a instâncias EC2 e servidores on-premise. Além disso, é possível configurá-lo para fornecer acesso a nós (nodes) do Amazon EKS, permitindo a execução de comandos de shell ou a abertura de sessões de terminal de maneira segura e simplificada. Isso elimina a necessidade de abrir portas SSH diretamente nos nós do EKS.
+
+2. **Run Command:**
+   - O Run Command também pode ser usado para executar comandos em nós do EKS, oferecendo uma abordagem automatizada para tarefas administrativas em larga escala.
 
 ## ORÇAMENTO
 * **Custo Mensal: $1.657,96 USD**  
