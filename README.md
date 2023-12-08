@@ -88,6 +88,8 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
    - O DMS é um serviço que facilita a migração de dados entre diferentes tipos de bancos de dados, incluindo migrações homogêneas e heterogêneas. Ele suporta a replicação contínua e em tempo real, ajudando na transferência eficiente de dados entre fontes e destinos.
 
 ## ORÇAMENTO
+* **Custo Mensal: $1.657,96 USD**  
+* **Custo Anual: $19.895,52 USD**
 <div align="center">
     <img src="Assets/orçamento.png" alt="orçamento" >
 </div>
