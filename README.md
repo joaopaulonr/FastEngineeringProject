@@ -108,21 +108,11 @@ Nós somos da empresa "Fast Engineering S/A" e gostaríamos de uma solução dos
 </div>
 Acesse o link do cálculo de custos <a href="https://calculator.aws/#/estimate?id=689266df76976f7dea81de5ec8ae6cc56991ae17" target="_blank">aqui!</a>
 
- 
 
-## PRAZO DE ENTREGA
-
-## CRONOGRAMA MACRO DE ENTREGAS
-
-### [Fase 1: Planejamento e Análise]
-
-### [Fase 2: Desenvolvimento]
-
-### [Fase 3: Testes]
-
-### [Fase 4: Implementação]
-
-### [Fase 5: Monitoramento e Manutenção]
+## PRAZO E CRONOGRAMA MACRO DE ENTREGAS
+<div align="center">
+    <img src="Assets/CronogramaEntregas.svg" alt="orçamento" >
+</div>
 
 ## REFERÊNCIAS
 
